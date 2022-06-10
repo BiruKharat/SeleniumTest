@@ -1,0 +1,26 @@
+How To create Git Repository
+    Login to Git Hub and create repo from browser
+
+How to upload the project in Git Repository
+    Create a maven project on local(Using any IDE)
+    clone the Git repository (git clone repoURL)
+    Copy all files and folders from newly created project to git repo folder
+
+    git add .
+    git commit -m 'commitMessage'
+    git push
+
+How To download/clone Git repository
+    git clone repoURL
+
+Git Commands
+git clone https://github.com/prashantnimje/june2022.git    >> To clone git repo
+git branch   --> To check Current branch
+git checkout -b <BranchName>  --> To create and switch into new branch
+git add .
+git commit -m 'commitMessage'
+
+Changing directory in git bash using LinuxCommands
+cd
+ls
+ls -al

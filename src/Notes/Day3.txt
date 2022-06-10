@@ -1,0 +1,25 @@
+Run first Selenium code
+
+Add Selenium Dependency in pom.xml
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>3.141.59</version>
+        </dependency>
+    </dependencies>
+
+After adding dependency you may require to click on Maven(Top Right corner)
+reload all project icon
+
+Download appropriate chrome driver according to chrome browser version
+
+Pull the latest code from git repo
+git -> pull ( from intellij)
+
+Component of selenium / Selenium Architecture
+
+Bindings ->>>> Languages -> Java/Python/Other
+WebDriver API / Library  -> Give direction to browser
+Driver -> For handling multiple browsers
