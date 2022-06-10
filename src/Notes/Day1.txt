@@ -1,0 +1,22 @@
+Introduction
+
+Tools
+    Java 1.8 or greater >> Programming Language
+    Selenium >> Library to interact with Web Browser
+    Maven -> Build tool
+    IDE -> Intellij / eclipse / visualStudio
+    VersionControl -> Git
+    GitBash
+
+***********************************************
+Setup/PreRequisites to start selenium Automation
+1. Java should be installed https://www.oracle.com/java/technologies/downloads
+   Oracle account <java -version>
+
+2. Git hub account https://github.com/
+
+3. Git bash should be installed https://git-scm.com/downloads
+
+4. Any IDE, Intellij (Open Source) should be installed.
+   https://www.jetbrains.com/idea/download/#section=windows
+   Download community version
